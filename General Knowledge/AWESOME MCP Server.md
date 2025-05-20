@@ -1,4 +1,4 @@
-#llm #mcp
+#llm #mcp #vibecoding
 
 What's MCP? https://modelcontextprotocol.io/introduction
 
